@@ -18,5 +18,25 @@ Por fim, gostaria de destacar que estou sempre em busca de aprendizado e evoluç
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,react,py,selenium,postgres,tailwind,vscode,postman,nodejs,pycharm)](https://skillicons.dev)
 
+## **Extras tecnologias que já tive contato**
+
+- Angular
+- TypeScript
+
+## **Ferramentas do meu dia-a-dia**
+
+- Jira
+- Pycharm
+- vscode
+- postman
+
+# **Contato**
+
+LinkedIn: [Luis Fernando](https://www.linkedin.com/in/luis-fernando-05820027b/)
+EMAIL: lf3079668@gmail.com
+Contato : (31) 99820-1493
+
+
+
 
 
