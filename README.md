@@ -30,6 +30,15 @@ Por fim, gostaria de destacar que estou sempre em busca de aprendizado e evoluç
 - vscode
 - postman
 
+## 🧪 Projetos de QA
+
+Aqui estão alguns dos principais projetos que desenvolvi na área de **Qualidade de Software**, abrangendo testes manuais, automação e boas práticas de QA:
+
+- [**QA Automation UrbanRoutes**](https://github.com/itsLuisRezende/QA_Automation_UrbanRoutes)  
+  Automação de testes Web com **Python + Selenium + Pytest**.  
+  ✔️ Cobertura de 100% dos cenários planejados (8/8)  
+  ✔️ Testes de fluxo completo: cadastro, pagamentos, planos e requisitos 
+
 # **Contato**
 
 LinkedIn: [Luis Fernando](https://www.linkedin.com/in/luis-fernando-05820027b/)
